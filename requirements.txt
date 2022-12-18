@@ -1,0 +1,8 @@
+spyder
+lxml
+requests
+bs4
+pyinstaller
+pandas
+selenium
+openpyxl
